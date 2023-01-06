@@ -1,0 +1,14 @@
+---
+name: GodmodePM4
+version: 1.0.0
+main: skyss0fly\GodmodePM4\Main
+api:
+- 4.12.2
+author: skyss0fly
+description: Godmode is a Plugin which allows players to put themselves in Godmode
+  and to be immortal.
+permissions:
+  godmode.use:
+    description: Allows Player to use Godmode
+    default: op
+...
